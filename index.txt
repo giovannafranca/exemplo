@@ -1,1 +1,18 @@
+<!-- DTD = Document Type Definition! -->
 <!Doctype html>
+<html>
+<head>
+<meta charset="URF-8">
+<title>EXEMPLO</title>
+</head>
+<body>
+<h1>Olá Mundo!</h1>
+<h2>Agora Remoto</h2>
+<button onclick="firstCommit()">CLICK-ME</button>
+<script>
+function firstCommit(){​​
+alert("Hello World!");
+}​​
+</script>
+</body>
+</html>
